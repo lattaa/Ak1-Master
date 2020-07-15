@@ -1,0 +1,16 @@
+/* CSS Document */
+
+body {
+background: url(../img/sys/arriere.jpg);
+}
+
+.info {
+	font-family: Tahoma;
+	font-size: 11pt;
+}
+
+.Table1 {
+	width: 800px;
+	border: 0;
+	top:auto;
+}
